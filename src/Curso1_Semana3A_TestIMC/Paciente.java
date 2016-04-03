@@ -1,4 +1,4 @@
-package Curso1_Semana1;
+package Curso1_Semana3A_TestIMC;
 
 public class Paciente {
 
@@ -35,6 +35,9 @@ public class Paciente {
 		return "Obesidade grau III (obesidade m�rbida)";
 	}
 }
+
+
+
 
 
 
