@@ -30,7 +30,6 @@ public class EmbaralhadorDificil implements Embaralhador {
 		if(sb.length() > 6){
 			sb.replace(0, 2, "__");
 			sb.replace(sb.length() - 2, sb.length(), "__");
-			
 		}else{
 			sb.replace(0, 1, "_");
 			sb.replace(sb.length() - 1, sb.length(), "_");
